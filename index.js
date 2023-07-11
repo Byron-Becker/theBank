@@ -37,8 +37,9 @@
 
 // the join method combines an array into a string ", "
 
+// the replace method takes in a search pattern and then replaces it with a string
 
-
+// splits up a string into an array of substrings
 
 
 
