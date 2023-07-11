@@ -33,6 +33,14 @@
 //  they rely on JS for complex functionalities
 // they specify what should be done not how
 
+// <audio controls volume "0.5"
+
+// the join method combines an array into a string ", "
+
+
+
+
+
 
 
 
