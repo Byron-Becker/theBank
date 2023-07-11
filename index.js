@@ -43,7 +43,11 @@
 
 // strong and b.  strong has semantic meaning for screen readers where bold is just stylistic
 
-
+// form action="" method get
+// label for 
+// select id multiple
+// option selected disabled name id value
+// button type=submit
 
 
 
