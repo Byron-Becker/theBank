@@ -41,8 +41,7 @@
 
 // splits up a string into an array of substrings
 
-
-
+// strong and b.  strong has semantic meaning for screen readers where bold is just stylistic
 
 
 
