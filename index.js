@@ -61,6 +61,54 @@
 // semantics is meant to give the elements and it's content meaning and purpose.  It is helpful for 
 // browser, screen readers and other coders to understand the purpose of the content making it easier to undersand
 
+// Math is a built in object in Javascript that acts as namespace for mathematical methods to be stored in.
+// often referred as a namespace
+// min, max, round, floor, ceil, random, abs, sqrt, pow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
