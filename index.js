@@ -66,7 +66,8 @@
 // min, max, round, floor, ceil, random, abs, sqrt, pow
 
 
-
+// constructor is a special method for a class.  It helps to initialize by creating the initial data space for the different properties.  It is automatically executed with the new keyword when calling the object.
+//  it also helps with state of the object when called, and can also help with setup logic
 
 
 
