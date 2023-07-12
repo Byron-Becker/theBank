@@ -58,6 +58,10 @@
 // dt then dd
 
 
+// semantics is meant to give the elements and it's content meaning and purpose.  It is helpful for 
+// browser, screen readers and other coders to understand the purpose of the content making it easier to undersand
+
+
 
 
 
