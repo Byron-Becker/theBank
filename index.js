@@ -73,10 +73,14 @@
 
 // polymorphism replaces the need for if/else statements
 
+// when there are spaces and you are calling the object or special characters otherwise you use dot notation
 
-
-
-
+// z index is a css property that deals with the stacking of elements along the z index, essentialy which elements will go in front of another.
+// This is important when you are building a website with overlaying elements like a drop down navigation bar.
+//  if you aren't familiar with the stacking conext it can make for some difficulities with the layout of the webpage
+// for stacking context you can only apply them to a positioned element: being fixed, absolute, sticky, 
+// the stacking index is ap
+//  setting a z index value on an element creates a new stacking context affecting the stacking of the children.  The children take on the z index of the closest parent with a z index value
 
 
 
