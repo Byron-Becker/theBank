@@ -71,6 +71,8 @@
 
 // index start, # of indexes, replace elements
 
+// polymorphism replaces the need for if/else statements
+
 
 
 
