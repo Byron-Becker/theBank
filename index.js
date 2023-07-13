@@ -82,7 +82,11 @@
 // the stacking index is ap
 //  setting a z index value on an element creates a new stacking context affecting the stacking of the children.  The children take on the z index of the closest parent with a z index value
 
+// it is generally a good idea put css at the head of the html for improved user experience because as the html loads you want the style to be rendered along with it
+//  or the user will be seeing the content without styling which can be unappealing.
+//   ANd put javascript at the end you avoid blocking the critical rendering path which can affect the loading time of the page.  Again this can affect the users expericence.
 
+//  
 
 
 
