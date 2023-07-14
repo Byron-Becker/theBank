@@ -94,7 +94,9 @@
 // }
 // overflow: auto
 
-
+// when reaching a global audience and building out multilingual site, you have to be aware of more than just the translation of the language.
+// certain languages like german have longer words, so you need to make sure there is enough space in containers so it can accomdate it.  Some langauages like arabic read RTL, and being mindful of certain cultural sensitivies for images and icons.  
+// Overall this helps to make a more inclusive and universally enjoyable experience
 
 
 
