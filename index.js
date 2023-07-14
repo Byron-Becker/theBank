@@ -106,7 +106,10 @@
 // you can store text in files that are easily translated so you don't have to change source code, you can also use built in international properties like international time in javascript
 
 
-
+// document type decalaration is used to let the browser know which version of html will be runned so that the browser can render it correclty
+// if it is not declared the browser can have rendering issues that create website layout issues
+// the browser may go into quirk mode to try and fill in the gaps
+// doctype ensures consistent rendering across different browsers and allows for the html to be rendered correctly.
 
 
 
