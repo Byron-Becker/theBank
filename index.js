@@ -86,9 +86,13 @@
 //  or the user will be seeing the content without styling which can be unappealing.
 //   ANd put javascript at the end you avoid blocking the critical rendering path which can affect the loading time of the page.  Again this can affect the users expericence.
 
-//  
-
-
+// clear: both 
+// clearfix{
+//     content: "",
+//     table: ,
+//     c
+// }
+// overflow: auto
 
 
 
