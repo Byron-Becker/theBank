@@ -100,7 +100,10 @@
 
 // each browser comes with default css styling, and resetting and normalizing both seek to address this.  Resetting completly resets the css styling of the browser, and then is filled in by the developer where normalizing seeks to standardize the stylings across different browsers.  I pref
 
-
+// when serving a page with content in multiple languages there are a few things you can do.
+// You can detect the users preference with HTTP headers, or have a drop down menu the user can choose from to serve localized content in the preferred lanaguage.
+//  when building the website you can use the technique internationalization to improve the ability of serving multiple different langauages
+// you can store text in files that are easily translated so you don't have to change source code, you can also use built in international properties like international time in javascript
 
 
 
