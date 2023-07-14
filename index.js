@@ -98,6 +98,8 @@
 // certain languages like german have longer words, so you need to make sure there is enough space in containers so it can accomdate it.  Some langauages like arabic read RTL, and being mindful of certain cultural sensitivies for images and icons.  
 // Overall this helps to make a more inclusive and universally enjoyable experience
 
+// each browser comes with default css styling, and resetting and normalizing both seek to address this.  Resetting completly resets the css styling of the browser, and then is filled in by the developer where normalizing seeks to standardize the stylings across different browsers.  I pref
+
 
 
 
