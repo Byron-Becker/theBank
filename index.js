@@ -119,7 +119,7 @@
 // async when it doesn't matter when it is loaded and is not essential to the page
 //  defer when you need the javascript to load in a specific order
 
-
+// flash of unstyled content
 
 
 
