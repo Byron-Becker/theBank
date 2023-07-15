@@ -127,15 +127,19 @@
 // flash of unstyled content fouc
 
 
-function reverse = arr => arr.reverse()
+const reverse = arr => arr.reverse()
 
-let reverse = []
+
 
 function rev(arr){
+
+    let reverse = []
+    
     for(let i = arr.length-1; i >= 0; i--){
         reverse.push(arr[i])
     }
-}
+}MN
+
 
 
 
