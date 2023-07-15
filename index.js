@@ -112,7 +112,12 @@
 // doctype ensures consistent rendering across different browsers and allows for the html to be rendered correctly.
 
 
-
+// all 3 deal with how javascript is loaded and executed.  They are important for a developer to understand,
+//  for improving user experience and page load time.
+// script, blocks and renders async, doesn't block but loads when done and defer doesn't block and waits for the whole doc to load
+// script when it needs to run for things like a navigation bar to work correctly
+// async when it doesn't matter when it is loaded and is not essential to the page
+//  defer when you need the javascript to load in a specific order
 
 
 
