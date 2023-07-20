@@ -154,7 +154,8 @@
 // async means that the function will return a promise.  async will wrap a return value in a promise
 //  the function's result will be accessible with .then or await
 
-
+// a constructor function has a the new keyword that accesses the constructor method for the class function
+//  factory uses
 
 
 
