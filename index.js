@@ -157,7 +157,8 @@
 // a constructor function has a the new keyword that accesses the constructor method for the class function
 //  factory uses
 
-
+//  you should set it as const because you are not going to reassign the arrow function 
+//  often used as inline functions, arguments for a function which are callback functions
 
 
 
