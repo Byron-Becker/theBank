@@ -151,7 +151,8 @@
 // operators manipulate values and perform calculations
 //  assignment or equalityoperators, arithmetic, coditionals, logical operators
 
-
+// async means that the function will return a promise.  async will wrap a return value in a promise
+//  the function's result will be accessible with .then or await
 
 
 
