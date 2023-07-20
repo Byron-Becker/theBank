@@ -146,7 +146,10 @@
 // every object has an internal prototype property that references another object as a fallback if it does not have a method or property.
 //   This is foundational to code inheritance, reusability and object oriented prorgramming patterns
 
-
+//  a keyword controls the flow of execution and defines language constructs
+// var,const,let, this, function, if/else, switch, null undefined, async
+// operators manipulate values and perform calculations
+//  assignment or equalityoperators, arithmetic, coditionals, logical operators
 
 
 
