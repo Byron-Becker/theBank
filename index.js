@@ -143,6 +143,8 @@
 
 // a program is a set of instructions for a computer to understand and execute
 
+// every object has an internal prototype property that references another object as a fallback if it does not have a method or property.
+//   This is foundational to code inheritance, reusability and object oriented prorgramming patterns
 
 
 
