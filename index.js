@@ -127,19 +127,21 @@
 // flash of unstyled content fouc
 
 
-const reverse = arr => arr.reverse()
+// const reverse = arr => arr.reverse()
 
 
 
-function rev(arr){
+// function rev(arr){
 
-    let reverse = []
+//     let reverse = []
     
-    for(let i = arr.length-1; i >= 0; i--){
-        reverse.push(arr[i])
-    }
-}MN
+//     for(let i = arr.length-1; i >= 0; i--){
+//         reverse.push(arr[i])
+//     }
+// }MN
 
+
+// a program is a set of instructions for a computer to understand and execute
 
 
 
