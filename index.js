@@ -169,7 +169,9 @@
 // a for loop allows you to repeat the code for a specific amount of times.
 // 
 
-// 
+// async means that the function will return a Promise,
+// will be accessible with .then() or await
+//
 
 
 
