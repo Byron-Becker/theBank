@@ -160,7 +160,9 @@
 //  you should set it as const because you are not going to reassign the arrow function 
 //  often used as inline functions, arguments for a function which are callback functions
 
-
+// getter and setter functions help with encapsulation in coding, which helps to protect protected and private properties in an object
+// getters allow you to get info without changing it, while setters let you modify the properties
+//  these also 
 
 
 
