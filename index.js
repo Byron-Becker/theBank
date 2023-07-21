@@ -164,7 +164,7 @@
 // getters allow you to get info without changing it, while setters let you modify the properties
 //  these also 
 
-
+// it's like a lockbox with two keys.  They can open the box and referenc e
 
 
 
