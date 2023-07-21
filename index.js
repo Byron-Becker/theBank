@@ -166,9 +166,10 @@
 
 // it's like a lockbox with two keys.  They can open the box and referenc e
 
+// a for loop allows you to repeat the code for a specific amount of times.
+// 
 
-
-
+// 
 
 
 
