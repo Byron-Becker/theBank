@@ -175,7 +175,8 @@
 
 // the return will be wrapped in a promise
 
-
+// a keyword controls flow execution and define language constructs
+// an operator manipulates values and performs calculations
 
 
 
