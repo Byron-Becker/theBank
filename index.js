@@ -178,6 +178,20 @@
 // a keyword controls flow execution and define language constructs
 // an operator manipulates values and performs calculations
 
+function(int, num){
+    let remainder = int % num;
+    let number = Math.floor(int/num)
+    let arr = [];
 
+    for(let i =0; i < num-remainder; i++ ){
+        arr.push(number)
+    }
+
+    for(let i= 0; i<remainder i++){
+        arr.push(number + 1)
+    }
+
+    return arr
+}
 
 
