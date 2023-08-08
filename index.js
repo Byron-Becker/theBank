@@ -7,6 +7,7 @@
 
 // I really like it because it helps with better code organization, more readable syntax, and it's easier manipulate data when using.  Overalll it's just more efficient for developing software.
 
+// progressive rendering is when you have the browser load the webpage in blocks to improve the perceived load time of the web page.  This helps to improve user exprience and engagement by presenting the most useful content first that the user will interact with before loading content or data structures that don't add to the initial viewing experience.  For example with something like gmail you would load the emails first before loading other ui features like chat or notifications.
 
 
 
