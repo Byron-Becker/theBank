@@ -13,8 +13,7 @@
 
 // using the srcset image tag can benefit the user's overall experience by having the provide the optimal image resolution and size based on the conditions of the user's device.  The browser takes in the conditions 
 
-
-
+// data attributes are great for storing local data on the html elements for the javascript to access without the need to use the DOM which can be resource intensive.  Overall it helps with code efficiency and organization when storing data.
 
 
 
