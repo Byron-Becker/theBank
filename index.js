@@ -3,6 +3,11 @@
 // floats purpose are to position elements within a container.  By floating an image for example you can position it within the container horizontally, saying left or right and the other content will flow around it.  This has been mostly outdated by flexbox and grid, but there are still a few examples of where it can be used.
 // It's important to be mindful of what happen
 // 
+// yes I have used handlebars before.  I like it because it allows me to create dynamic html content.  It's easier read, more organized, and easier manipulate data.  Overall it helps with clarity, and efficiency when using.
+
+// I really like it because it helps with better code organization, more readable syntax, and it's easier manipulate data when using.  Overalll it's just more efficient for developing software.
+
+
 
 
 
