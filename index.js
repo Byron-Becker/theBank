@@ -15,7 +15,7 @@
 
 // data attributes are great for storing local data on the html elements for the javascript to access without the need to use the DOM which can be resource intensive.  Overall it helps with code efficiency and organization when storing data.
 
-
+// they are all client side ways of storing data, but each one has different uses.  cookies stores smaller data and sends it to the server, while session storage stores larger data that only lasts until the browser is closed.  Local storage maitnains this even when the browser closes.  It's important for the developer to be aware of what goals they are trying to accomplish when choosing the ways to store the data.
 
 
 
