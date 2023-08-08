@@ -11,6 +11,7 @@
 
 // css selector specifity helps to 
 
+// using the srcset image tag can benefit the user's overall experience by having the provide the optimal image resolution and size based on the conditions of the user's device.  The browser takes in the conditions 
 
 
 
