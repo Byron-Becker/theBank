@@ -26,7 +26,7 @@
 // with flexibile media within a respnsive web design you want the media whcih can be something like an image or video to automatically resize within it's container 
 //  to maintain the proper viewing aspect ratio for an optimal viewing experience
 
-
+// not, and, only but only is not supported on html4 so not great to use right now
 
 
 
