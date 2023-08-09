@@ -19,7 +19,9 @@
 
 // html 5 helps to provide a robust, standardized web development platform using css, html and javascript.  By using these together we can build rich, responsive websites.
 
-
+// input type = email, url, number, tel, date, time
+//  textarea, select
+// they all need name or the server won't know what to do with them
 
 
 
