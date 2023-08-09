@@ -23,7 +23,8 @@
 //  textarea, select
 // they all need name or the server won't know what to do with them
 
-
+// with flexibile media within a respnsive web design you want the media whcih can be something like an image or video to automatically resize within it's container 
+//  to maintain the proper viewing aspect ratio for an optimal viewing experience
 
 
 
