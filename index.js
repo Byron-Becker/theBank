@@ -28,6 +28,17 @@
 
 // not, and, only but only is not supported on html4 so not great to use right now
 
+// no they are mark up languages, they do not have the computational abiliities define programming languages, and do not have the ability to perform logic handling
+// they perform no logic handling, and can not manipulate data
+//  they rely on JS for complex functionalities
+// they specify what should be done not how
+
+
+
+
+
+
+
 
 
 
