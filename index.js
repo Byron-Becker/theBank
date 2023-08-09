@@ -17,7 +17,7 @@
 
 // they are all client side ways of storing data, but each one has different uses.  cookies stores smaller data and sends it to the server, while session storage stores larger data that only lasts until the browser is closed.  Local storage maitnains this even when the browser closes.  It's important for the developer to be aware of what goals they are trying to accomplish when choosing the ways to store the data.
 
-
+// html 5 helps to provide a robust, standardized web development platform using css, html and javascript.  By using these together we can build rich, responsive websites.
 
 
 
